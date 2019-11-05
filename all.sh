@@ -1,0 +1,1 @@
+bash seed.sh && git add . && git commit -m "update" && ./build-docker.sh && ./run-docker.sh 
